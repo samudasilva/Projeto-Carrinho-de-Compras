@@ -1,4 +1,4 @@
-# Projeto Amigo Secreto
+# Projeto Carrinho de Compras
 > Esta página foi desenvolvida para experenciar a usabilidade de um e-commerce, criando um carrinho de compras. Desenvolvido como um case de estudo para aprimorar habilidades em lógica de programação e manipulação do DOM em JavaScript.
 
 ## 💻 Tecnologias
